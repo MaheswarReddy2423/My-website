@@ -1,0 +1,118 @@
+body{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #ffc49a;
+    text-align: center;
+    font-family: 'Merriweather',sans-serif;
+}
+.toc
+{
+    margin-top: 0px;
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+h1{
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento',cursive;
+    font-size: 3.125rem;
+    color:  #567189;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 1.25rem;
+    color:  #567189;
+    font-weight: normal;
+}
+
+h3{
+    font-family:'Montserrat',sans-serif;
+    color: #11999E;
+}
+
+.one
+{
+    background-color: #acf6f6;
+   
+
+}
+.mc
+{
+    margin-bottom: 0px;
+    background-color: #99fd7e;
+    text-align: center;
+    position: relative;
+   
+}
+.profile
+{
+    background-color: #000000;
+}
+
+.skill-row1
+{
+    color: #fd0404;
+    background-color: #FFEBB7;
+    margin-bottom: 0px;
+}
+
+.bc
+{
+    background-color: #FF99D7;
+    position: relative;
+    margin-bottom: 0px;
+
+    
+}
+
+.c1
+{
+    position: absolute;
+    top: 200px;
+    right: 200px;
+}
+.f
+{
+    text-decoration: underline;
+}
+.c2
+{
+    position: absolute;
+    left: 300px;
+    bottom:700px;
+}
+.c3
+{
+    position: absolute;
+    left: 200px;
+    bottom:500px;
+}
+.s1
+{
+    align-self: center;
+    height: 100px;
+    width: 100px;
+}
+.sukuna
+{
+    height:200px;
+    width: 200px;
+}
+.p1
+{
+    align-self: center;
+    height: 100px;
+    width: 100px;
+}
+.footer-link
+{
+    color: #000000;
+}
+.btn
+{
+    color: #ff0000;
+}
